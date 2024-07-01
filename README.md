@@ -28,6 +28,6 @@ Next, create charts based on pivot tables
 
 **Step 4**
 
-Finally, we create our dashboard with all the charts and adding several slicers to filter the data
+Finally, I create my dashboard with all the charts and adding several slicers to filter the data
 
 ![alt text](IMG/Dashboard.PNG)
