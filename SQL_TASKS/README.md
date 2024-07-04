@@ -1,6 +1,6 @@
 ## SQL tasks to practice extraction, filtering, sorting, limit results and distinct.
 
-You can find [dataset](dataset.xlsx) , [script1](script1.sql) and [script2](script2.sql) to practice and check the results.
+You can find [dataset](.//Files/dataset.xlsx) , [script1](./Files/script1.sql) and [script2](./Files/script2.sql) to practice and check the results.
 
 ### Database1 structure:
 
@@ -75,7 +75,7 @@ You can find [dataset](dataset.xlsx) , [script1](script1.sql) and [script2](scri
 
 ## More practice
 
-You can find [dataset2](dataset2.xlsx) , [script3](script3_movies.sql), [script4](script4_babies.sql), [script5](script5_nomnom.sql), [script6](script6_news.sql) and [script7](script7_fake_apps.sql) to practice and check the results.
+You can find [dataset2](./Files/dataset2.xlsx) , [script3](./Files/script3_movies.sql), [script4](./Files/script4_babies.sql), [script5](./Files/script5_nomnom.sql), [script6](./Files/script6_news.sql) and [script7](./Files/script7_fake_apps.sql) to practice and check the results.
 
 ### Database2 structure:
 
